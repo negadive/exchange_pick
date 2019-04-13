@@ -1,3 +1,4 @@
 # exchange_pick
 
+"EXTRACT HERE" ico.rar
 TUKAR ITEM1 DAN ITEM2 JADI HASIL
