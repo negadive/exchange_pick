@@ -1,0 +1,3 @@
+# exchange_pick
+
+TUKAR ITEM1 DAN ITEM2 JADI HASIL
